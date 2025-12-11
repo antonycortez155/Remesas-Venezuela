@@ -1,4 +1,6 @@
 {
+  "id": "https://remesasvenezuela.netlify.app/",
+  "scope": "https://remesasvenezuela.netlify.app/",
   "short_name": "Remesas Vzla",
   "name": "Remesas Venezuela",
   "icons": [
@@ -19,7 +21,7 @@
       "purpose": "maskable any"
     }
   ],
-  "start_url": "/",
+  "start_url": "https://remesasvenezuela.netlify.app/",
   "background_color": "#ffffff",
   "theme_color": "#4f46e5",
   "display": "standalone"
