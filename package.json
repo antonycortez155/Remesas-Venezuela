@@ -33,6 +33,10 @@
   "devDependencies": {
     "eslint": "^8.50.0"
   },
+  "engines": {
+    "node": "20.19.4",
+    "npm": "10.x"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
