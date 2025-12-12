@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.remesasvenezuela.app",
+      "sha256_cert_fingerprints": [
+        "50:85:41:2C:82:1E:04:8C:E8:58:56:8E:BF:E4:05:0C:8E:2E:A2:AA:12:7A:3D:D0:CC:AE:06:4F:77:B6:CF:21"
+      ]
+    }
+  }
+]
